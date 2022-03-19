@@ -30,6 +30,8 @@
 
 **This python script can be used, with some modification, for any election. This relies mostly on the format of provided data. Should the election result data, in .csv format, maintain it's current format, of candidate's names in column 3, and county name in column 2 - then you can run this script unchanged. However, so long as you import a .csv and know what columns your county names falls within, and which column your candidate's names fall within - you can use said column's index number to very minimally alter the script to work with your data. In example, if your candidate name was in column 5 and your county name fell within column 4 - you would simply change the number in parenthesis in the below script to those column's corresponding index number (column # - 1).**
 
+![code picutyre](https://camo.githubusercontent.com/c0a7d55370a7ba78d4fa349ec276473ede24dc46eaf73fc57d930ed3dea2b3f3/68747470733a2f2f696d6775722e636f6d2f42796c765136772e706e67)
+
 **So, two options to get this script to work with any .csv of data would be to**
 
 **1. Re-position candidate names and county names to columns 3 and 2 respectively.**
